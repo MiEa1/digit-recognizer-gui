@@ -51,7 +51,7 @@ tqdm >= 4.65.0
 3. **下载项目代码**
    - 从GitHub克隆项目仓库：
      ```
-     git clone https://github.com/your-username/digit-recognizer.git
+     git clone https://github.com/MiEa1/digit-recognizer.git
      cd digit-recognizer
      ```
 
@@ -74,7 +74,7 @@ tqdm >= 4.65.0
 2. **下载项目代码**
    - 克隆项目仓库：
      ```
-     git clone https://github.com/your-username/digit-recognizer.git
+     git clone https://github.com/MiEa1/digit-recognizer.git
      cd digit-recognizer
      ```
 
@@ -101,7 +101,7 @@ tqdm >= 4.65.0
 3. **下载项目代码**
    - 克隆项目仓库：
      ```
-     git clone https://github.com/your-username/digit-recognizer.git
+     git clone https://github.com/MiEa1/digit-recognizer.git
      cd digit-recognizer
      ```
 
